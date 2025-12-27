@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 • My main tech stack is tailwind, react, typescript, express, nextjs and mongodb for the databases.
 
-•I've got a bunch of project which uses AI and those are very useful in day to day life.
+• I've got a bunch of project which uses AI and those are very useful in day to day life.
 
 • The current project which I'm working on is Carbon track which can be used to overcome the carbon emission.
 
