@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋 I'm Alok
 
 <!--
 **Alok1515/Alok1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Alok, a software engineer and I'm currently in my 3rd year.
+I'm a software engineer and I'm currently in my 3rd year.
 
 I build whatever i can imagine.
 
