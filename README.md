@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-• I'm a software engineer and I'm currently in my 3rd year.
+• I'm a developer and I'm currently in my 3rd year.
 
 • I build whatever i can imagine.
 
