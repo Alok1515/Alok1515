@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 • I build whatever i can imagine.
 
-• My main tech stack is tailwind, react, typescript, express, nextjs and mongodb for the databases.
+• My current tech stack is tailwind, react, typescript, express, nextjs and mongodb for the databases.
+
+• Learning Spring boot.
 
 • I've got a bunch of project which uses AI and those are very useful in day to day life.
 
