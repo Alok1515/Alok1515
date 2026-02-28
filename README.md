@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 • I've got a bunch of project which uses AI and those are very useful in day to day life.
 
-• The current project which I'm working on is Carbon track which can be used to overcome the carbon emission.
-
 • How to reach me :- alok.work15@gmail.com
 
 # 💻 Tech Stack:
